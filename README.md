@@ -5,7 +5,8 @@ Link to the Prototype of EncrypSSI:
 
 https://app.uizard.io/p/7187acb0 
 
-What it contains:
+
+What does this repository contain:
 
 1. Summary of EncrypSSI- A User-Centric SSI-Based Account Authentication System:
 Word document providing brief details of our project and its components excluding UVP features.
