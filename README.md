@@ -1,6 +1,10 @@
 # EncrypSSI-GodamLah-Hackathon-Project
 This repository belongs to our group, Flare Pact for the GodamLah Hackathon. The materials provided serve as an inside to our project called EncrypSSI.
 
+Link to the Prototype of EncrypSSI:
+
+https://app.uizard.io/p/7187acb0 
+
 What it contains:
 
 1. Summary of EncrypSSI- A User-Centric SSI-Based Account Authentication System:
