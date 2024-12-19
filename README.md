@@ -29,7 +29,7 @@ Part 2 of the Flowchart showing the login process of users with QR.
 It specifically depicts the VC authenticity and integrity verification process.
 
 7. Smart Contract for Credential Lease Demo Code:
-Demo code written in Solidity (.sol) by Flare Pact for the Smart Contract of Credential Lease
+Demo code written in Solidity (.sol) by Flare Pact for the Smart Contract of Credential Lease (UVP Feature)
 
 8. Smart Contract for Credential Lease Code Summary:
 Explanation of the Demo code written in Solidity of the Smart Contract
