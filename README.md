@@ -12,7 +12,7 @@ Welcome to the **EncrypSSI** repository! This repository belongs to our group, *
 
 ## What does this repository contain:
 
-1. **[Summary of EncrypSSI - A User-Centric SSI-Based Account Authentication System](./path/to/summary_of_encrypSSI.pdf)**  
+1. **[Summary of EncrypSSI - A User-Centric SSI-Based Account Authentication System](Summary of EncrypSSI: A User-Centric SSI-Based Account Authentication System.docx)**  
    Word document providing brief details of our project and its components, excluding UVP features.
 
 2. **[Summary of UVP Features of EncrypSSI](./path/to/summary_of_uvp_features.pdf)**  
